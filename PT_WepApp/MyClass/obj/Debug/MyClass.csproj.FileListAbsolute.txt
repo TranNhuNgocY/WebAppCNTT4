@@ -1,0 +1,12 @@
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\bin\Debug\MyClass.dll.config
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\bin\Debug\MyClass.dll
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\bin\Debug\MyClass.pdb
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\bin\Debug\EntityFramework.dll
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\bin\Debug\EntityFramework.SqlServer.dll
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\bin\Debug\EntityFramework.xml
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\bin\Debug\EntityFramework.SqlServer.xml
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\obj\Debug\MyClass.csproj.CopyComplete
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\obj\Debug\MyClass.dll
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\MyClass\obj\Debug\MyClass.pdb

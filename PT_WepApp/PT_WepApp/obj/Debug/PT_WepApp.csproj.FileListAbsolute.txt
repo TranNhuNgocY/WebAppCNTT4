@@ -77,3 +77,10 @@ F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\obj\Debug\PT_WepApp.csproj.CoreCompil
 F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\obj\Debug\PT_WepApp.csproj.CopyComplete
 F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\obj\Debug\PT_WepApp.dll
 F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\obj\Debug\PT_WepApp.pdb
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\bin\EntityFramework.dll
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\bin\EntityFramework.SqlServer.dll
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\bin\MyClass.dll
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\bin\MyClass.pdb
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\bin\MyClass.dll.config
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\bin\EntityFramework.xml
+F:\ASP.NET\WebAppCNTT4\PT_WepApp\PT_WepApp\bin\EntityFramework.SqlServer.xml
