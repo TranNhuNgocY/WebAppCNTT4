@@ -12,9 +12,6 @@ namespace PT_WepApp.Controllers
     {
         public ActionResult Index()
         {
-            MyDBContext db = new MyDBContext();//tao moi mau tin
-            int sodong = db.Products.Count();
-            ViewBag.sodong = sodong;
             return View();
         }
     }

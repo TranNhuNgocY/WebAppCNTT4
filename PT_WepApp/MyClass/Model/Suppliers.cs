@@ -60,6 +60,6 @@ namespace MyClass.Model
         public DateTime? UpdateAt { get; set; }
 
         [Display(Name = "Trạng thái")]
-        public int Status { get; set; }
+        public int? Status { get; set; }
     }
 }

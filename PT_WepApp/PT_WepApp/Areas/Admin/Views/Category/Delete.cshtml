@@ -3,7 +3,6 @@
 @{
     ViewBag.Title = "Delete";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
-
 }
 
 <h2>Delete</h2>
@@ -30,11 +29,11 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.ParentId)
+            @Html.DisplayNameFor(model => model.ParentID)
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.ParentId)
+            @Html.DisplayFor(model => model.ParentID)
         </dd>
 
         <dt>
@@ -62,14 +61,6 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.CreateBy)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.CreateBy)
-        </dd>
-
-        <dt>
             @Html.DisplayNameFor(model => model.CreateAt)
         </dt>
 
@@ -78,11 +69,11 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.UpdateBy)
+            @Html.DisplayNameFor(model => model.CreateBy)
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.UpdateBy)
+            @Html.DisplayFor(model => model.CreateBy)
         </dd>
 
         <dt>
@@ -91,6 +82,14 @@
 
         <dd>
             @Html.DisplayFor(model => model.UpdateAt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UpdateBy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UpdateBy)
         </dd>
 
         <dt>
@@ -103,8 +102,7 @@
 
     </dl>
 
-    @using (Html.BeginForm())
-    {
+    @using (Html.BeginForm()) {
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">

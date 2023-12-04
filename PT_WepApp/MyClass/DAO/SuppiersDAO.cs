@@ -11,8 +11,7 @@ namespace MyClass.DAO
     public class SuppliersDAO
     {
         private MyDBContext db = new MyDBContext();
-        /////////////////////////////////////////////////////////////////////////////////////
-        //Hien thi danh sach toan bo Loai san pham: SELCT * FROM
+        //INDET = SELECT * FROM
         public List<Suppliers> getList(string status = "All")
         {
             List<Suppliers> list = null;
